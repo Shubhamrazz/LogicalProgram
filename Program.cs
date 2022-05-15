@@ -9,7 +9,8 @@ namespace LogicalProgram
             Console.WriteLine("-------Welcome to Logical Programs------");
             //FibbonacciSeries.FibboNum();
             //PerfectNumber.CheckPerfectNumber();
-            PrimeNumber.GetPrimeNumbers();
+            //PrimeNumber.GetPrimeNumbers();
+            ReverseNumber.GetReverseNumber();
             Console.ReadLine();
         }
     }
