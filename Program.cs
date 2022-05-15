@@ -11,7 +11,8 @@ namespace LogicalProgram
             //PerfectNumber.CheckPerfectNumber();
             //PrimeNumber.GetPrimeNumbers();
             //ReverseNumber.GetReverseNumber();
-            CouponNumber.CheckCouponNumbers();
+            //CouponNumber.CheckCouponNumbers();
+            SimulateStopWatch.GetElapsedTime();
             Console.ReadLine();
         }
     }
