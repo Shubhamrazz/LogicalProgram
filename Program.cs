@@ -13,7 +13,8 @@ namespace LogicalProgram
             //ReverseNumber.GetReverseNumber();
             //CouponNumber.CheckCouponNumbers();
             //SimulateStopWatch.GetElapsedTime();
-            ArmstrongNumber.ArmsNumb();
+            //ArmstrongNumber.ArmsNumb();
+            SumOfDigit.Sum();
             Console.ReadLine();
         }
     }
