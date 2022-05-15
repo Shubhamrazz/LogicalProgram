@@ -12,7 +12,8 @@ namespace LogicalProgram
             //PrimeNumber.GetPrimeNumbers();
             //ReverseNumber.GetReverseNumber();
             //CouponNumber.CheckCouponNumbers();
-            SimulateStopWatch.GetElapsedTime();
+            //SimulateStopWatch.GetElapsedTime();
+            ArmstrongNumber.ArmsNumb();
             Console.ReadLine();
         }
     }
