@@ -10,7 +10,8 @@ namespace LogicalProgram
             //FibbonacciSeries.FibboNum();
             //PerfectNumber.CheckPerfectNumber();
             //PrimeNumber.GetPrimeNumbers();
-            ReverseNumber.GetReverseNumber();
+            //ReverseNumber.GetReverseNumber();
+            CouponNumber.CheckCouponNumbers();
             Console.ReadLine();
         }
     }
