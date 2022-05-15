@@ -8,7 +8,8 @@ namespace LogicalProgram
         {    //Welcome Message
             Console.WriteLine("-------Welcome to Logical Programs------");
             //FibbonacciSeries.FibboNum();
-            PerfectNumber.CheckPerfectNumber();
+            //PerfectNumber.CheckPerfectNumber();
+            PrimeNumber.GetPrimeNumbers();
             Console.ReadLine();
         }
     }
